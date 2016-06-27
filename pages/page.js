@@ -1,3 +1,15 @@
+
+/*
+*   File:       page.js
+*   Project:    MusicBook
+*   Date:       June 2016.
+*
+*   Autho:      Todd Hibbs
+*
+*   Description: This is the base class for all music book pages.
+*                Derived objects inherit these properties and override the render method to output page specific content
+*/
+
 var _ = require('lodash');
 var tonal = require('tonal');
 var filter = require('tonal-filter');
