@@ -1,0 +1,23 @@
+{
+  "name": "music-scales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "c.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.11.2",
+    "pdfkit": "^0.7.2",
+    "pdfmake": "^0.1.18",
+    "tonal": "^0.50.2",
+    "tonal-chord": "^0.50.1",
+    "tonal-filter": "^0.50.0",
+    "tonal-interval": "^0.50.1",
+    "tonal-key": "^0.50.2",
+    "tonal-progression": "^0.50.0",
+    "tonal-scale": "^0.50.0"
+  }
+}
